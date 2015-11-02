@@ -6,7 +6,7 @@ import java.awt.image.BufferedImage;
 public class Animacao {
 	private int velocidade;
 	private int frames;
-	
+	// var
 	private BufferedImage[] imagens;
 	private BufferedImage imagemAtual;
 	private int index=0;
